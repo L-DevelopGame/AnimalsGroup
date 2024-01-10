@@ -17,6 +17,9 @@
 
 פלטפורמת המשחק  :מחשב 
 
+![My Picture](https://i.ibb.co/wBPpK3N/CATCHGROUPANIMALS.png)
+
+
 
 
 ---
@@ -103,9 +106,7 @@
 קישור : \
 https://wordwall.net/resource/62436792/mammals-amphibians-reptiles
 
-![My Picture](https://i.ibb.co/wBPpK3N/CATCHGROUPANIMALS.png)
-
-
+![My Picture](https://i.ibb.co/t8xXzLY/ANIMALSGROUP.jpg)
 
 
 
