@@ -26,10 +26,12 @@
  
 * פלטפורמת המשחק  :מחשב 
 
-![background3](https://github.com/L-DevelopGame/AnimalsGroup/assets/57791415/481b5495-fe6e-44b6-8dcc-2e6420733206)
 
 
+![animalgroupopen](https://github.com/L-DevelopGame/AnimalsGroup/assets/57791415/a2fc2ec9-6a13-4070-a313-cb58403d9aca)
 
+
+![pictureGame](https://github.com/L-DevelopGame/AnimalsGroup/assets/57791415/b13edda5-433b-44d6-86b3-12926e614471)
 
 ---
 
