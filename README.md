@@ -1,7 +1,7 @@
 
 <div dir='rtl' lang='he'>
 
-# Game Name : AnimalsGroups
+# Game Name : AnimalGroups
 
 ## Description:
 
