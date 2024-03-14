@@ -43,8 +43,8 @@ Play the game on Itch.io: \
 https://liron02319.itch.io/animal-groups-game
 
 Trailer: \
-https://www.youtube.com/watch?v=zgWlo6KO1ks&ab_channel=lironcohen
-
+[https://www.youtube.com/watch?v=zgWlo6KO1ks&ab_channel=lironcohen
+](https://youtu.be/zgWlo6KO1ks)
 
 ## **Have Fun!**
 
