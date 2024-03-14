@@ -1,7 +1,7 @@
 
 <div dir='rtl' lang='he'>
 
-# Game Name : AnimalsGroup
+# Game Name : AnimalsGroups
 
 Looking for a quality and educational game about animals that will make a child enjoy combined with learning? \
 Do you have a child who loves animals but has trouble distinguishing between their types? \
