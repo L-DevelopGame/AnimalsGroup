@@ -3,25 +3,38 @@
 
 # Game Name : AnimalsGroups
 
-Looking for a quality and educational game about animals that will make a child enjoy combined with learning? \
-Do you have a child who loves animals but has trouble distinguishing between their types? \
-The next game is for you! \
-The game will teach your child to identify and distinguish between categories of animals - mammals, reptiles, invertebrates and more, in a particularly fun way. \
-Through various challenges, the game offers a fun experience that will shape and upgrade your child's cognitive abilities.
- 
+## Description:
 
-## The essence of the game
+Looking for a quality and educational game about animals that will make a child enjoy combined with learning?
 
-The game will teach your child the categories of animals - mammals, reptiles, invertebrates and more, and which animals belong to each category, in a particularly fun way!
-An open world game where the player has to collect the animals belonging to that desired category when the world has many challenges such as obstacles, enemies and other challenges, which makes it difficult for the player to do so.
+Do you have a child who loves animals but has trouble distinguishing between their groups? 
 
-* The game will teach the player to identify and distinguish between categories of animals - mammals, reptiles, invertebrates and more! in a particularly enjoyable way. \
-Through various challenges, the game offers a fun experience that will shape and upgrade your child's cognitive abilities.
-* In the game, you can explore areas such as forest, desert, etc. where different animals are found, thus learning to which family each animal belongs and where their living area is.
-* Each player has 3 lives, each touching a life belonging to the required animal family will earn you a point.
-* Any lifting of an animal that does not belong to the requested animal family will earn you disqualification.
-* Watch out for obstacles on the way like bonfires etc.
-* Get ready for a fun journey in the animal world!
+The next game is for you! 
+
+The game will teach your child the categories of animals - mammals, reptiles and Birds  and which animals belong to each category, in a particularly fun way!
+
+An open world game, where the player has to collect animals belonging to a certain category,when the world has many challenges such as obstacles, enemies and other challenges, which makes it difficult for the player to do so.
+
+
+## Instructions:
+
+Move with the arrows: UP, DOWN, RIGHT and LEFT .
+
+Catch only the animals that belong to the desired group of animals on the top left side of the screen.
+
+If you collect the requested number of animals - you win!
+
+If you collect the wrong animal - you lose 1 life.
+
+*Avoid Obstacles and Enemies to reach the end goal
+
+
+
+## Tips:
+
+*There is a "Heart Life" hide in Map - Try to find them if you need life
+
+*Take your time and plan your moves carefully.
 
 
 
