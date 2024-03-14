@@ -37,14 +37,6 @@ If you collect the wrong animal - you lose 1 life.
 *Take your time and plan your moves carefully.
 
 
-
-![animalgroupopen](https://github.com/L-DevelopGame/AnimalsGroup/assets/57791415/a2fc2ec9-6a13-4070-a313-cb58403d9aca)
-
-
-![pictureGame](https://github.com/L-DevelopGame/AnimalsGroup/assets/57791415/b13edda5-433b-44d6-86b3-12926e614471)
-
-
-
 ## External Links
 
 Play the game on Itch.io: \
@@ -55,6 +47,15 @@ https://www.youtube.com/watch?v=zgWlo6KO1ks&ab_channel=lironcohen
 
 
 ## **Have Fun!**
+
+
+![animalgroupopen](https://github.com/L-DevelopGame/AnimalsGroup/assets/57791415/a2fc2ec9-6a13-4070-a313-cb58403d9aca)
+
+
+![pictureGame](https://github.com/L-DevelopGame/AnimalsGroup/assets/57791415/b13edda5-433b-44d6-86b3-12926e614471)
+
+
+
 
 
 
