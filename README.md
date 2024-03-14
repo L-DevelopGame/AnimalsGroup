@@ -31,4 +31,19 @@ Through various challenges, the game offers a fun experience that will shape and
 ![pictureGame](https://github.com/L-DevelopGame/AnimalsGroup/assets/57791415/b13edda5-433b-44d6-86b3-12926e614471)
 
 
+
+## External Links
+
+Play the game on Itch.io:
+https://liron02319.itch.io/animal-groups-
+
+Trailer:
+https://www.youtube.com/watch?v=zgWlo6KO1ks&ab_channel=lironcohen
+
+
+## **Have Fun!**
+
+
+
+
 </div>
