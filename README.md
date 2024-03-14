@@ -35,7 +35,7 @@ Through various challenges, the game offers a fun experience that will shape and
 ## External Links
 
 Play the game on Itch.io: \
-https://liron02319.itch.io/animal-groups-
+https://liron02319.itch.io/animal-groups-game
 
 Trailer: \
 https://www.youtube.com/watch?v=zgWlo6KO1ks&ab_channel=lironcohen
