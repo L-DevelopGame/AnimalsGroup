@@ -39,6 +39,8 @@ If you collect the wrong animal - you lose 1 life.
 
 ## External Links
 
+Code : [Click Here](https://github.com/L-DevelopGame/AnimalGroupsGame)
+
 Play the game on Itch.io: \
 [https://liron02319.itch.io/animal-groups-game](https://liron02319.itch.io/animal-groups-game)
 
