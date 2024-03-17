@@ -10,6 +10,7 @@ public class OnOffMusic : MonoBehaviour
     public Button musicToggleButton;
     public Sprite musicOnSprite;
     public Sprite musicOffSprite;
+    [SerializeField] private float volumeSoundNum = 0.165f;
 
     private void Start()
     {
@@ -30,7 +31,7 @@ public class OnOffMusic : MonoBehaviour
     {
         if (PlayerPrefs.GetInt("Muted",0 )== 0)
         {
-            AudioListener.volume = 1;
+            AudioListener.volume = volumeSoundNum;
             musicToggleButton.GetComponent<Image>().sprite = musicOnSprite;
         }
         else

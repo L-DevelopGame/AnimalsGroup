@@ -8,6 +8,7 @@ public class Music : MonoBehaviour
 {
     public string[] scenesWithMusic;
     public AudioSource musicAudioSource; // Reference to the music audio source
+    [SerializeField] private float volumeSoundNum = 0.165f;
 
     // Persistent instance of the Music script
     static Music instance = null;
@@ -61,7 +62,8 @@ public class Music : MonoBehaviour
         if (IsSceneShouldBeWithMusic() && PlayerPrefs.GetInt("Muted", 0) == 0)
         {
             Debug.Log("Music is enabled for this scene.");
-            musicAudioSource.volume = 1f; // Set music volume to 1
+            musicAudioSource.volume = volumeSoundNum; 
+                                                      
         }
         else
         {
@@ -74,7 +76,7 @@ public class Music : MonoBehaviour
     {
         if (PlayerPrefs.GetInt("Muted", 0) == 0)
         {
-            musicAudioSource.volume = 1f;
+            musicAudioSource.volume = volumeSoundNum;
         }
         else
         {
