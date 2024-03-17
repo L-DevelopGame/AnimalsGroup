@@ -4,9 +4,9 @@
 
 Looking for a quality and educational game about animals that will make a child enjoy combined with learning?
 
-Do you have a child who loves animals but has trouble distinguishing between their groups? 
+Do you have a child who loves animals but has trouble distinguishing between their groups?
 
-The next game is for you! 
+The next game is for you!
 
 The game will teach your child the categories of animals - mammals, reptiles and Birds  and which animals belong to each category, in a particularly fun way!
 
