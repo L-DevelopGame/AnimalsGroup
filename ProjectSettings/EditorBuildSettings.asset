@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/OpenGame.unity
+    guid: 3873f4229122cf642b26752d553d2423
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 309195a94dbb7c34b8ff6db594891593
+  - enabled: 1
+    path: Assets/Scenes/HelpScene.unity
+    guid: da665da1879b1c44f816a466193c82d2
+  - enabled: 1
+    path: Assets/Scenes/Level1Mammals.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level2Birds.unity
+    guid: c993c16688206e64a800531e85ec835e
+  - enabled: 1
+    path: Assets/Scenes/Level3Reptiles.unity
+    guid: 5e97b9dca0aafe74c9c6334bcba3dbce
+  - enabled: 1
+    path: Assets/Scenes/LoseScreen.unity
+    guid: b753be51a018e4c4084d793aa796b6b0
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: c9604c9670af21d4999a39ee698d7af9
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: 4c40d7fc85d11214bbd9dc350e3cceca
+  m_configObjects: {}
